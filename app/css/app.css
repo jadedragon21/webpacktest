@@ -1,23 +1,33 @@
 body {
     background-color: aqua;
     font-family: sans-serif;
-    background-position: center;
     
+    background-image: url("https://media1.tenor.com/images/dc5d5ac0578cdef5ce3988a3011016e1/tenor.gif?itemid=5488802");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain ;
+  
   }
   
   #greeting {
-    color: #3e18e6;
+    color: #e4e3eb;
     font-family:'Times New Roman', Times, serif;
     font-size:xx-large;
     text-align: center;
-    background-color: khaki;
+    background-color: rgb(16, 71, 134);
 }
     #greeting2 {
-        color:rgb(24, 25, 26);
+        color:rgb(235, 11, 11);
         font-family:'Times New Roman', Times, serif;
         font-size:xx-large;
         text-align: center;
-        background-color: khaki;
+        background-color: rgb(12, 198, 223);
 
 
     }
+    #greeting3{
+       color:black;
+       background-color: rgb(12, 198, 223);
+    }
+  
