@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    font-family: sans-serif;
+    background-position: center;
+    
+  }
+  
+  #greeting {
+    color: #3e18e6;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    text-align: center;
+    background-color: khaki;
+}
+    #greeting2 {
+        color:rgb(24, 25, 26);
+        font-family:'Times New Roman', Times, serif;
+        font-size:xx-large;
+        text-align: center;
+        background-color: khaki;
+
+
+    }
